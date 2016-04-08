@@ -1,9 +1,9 @@
 //
 //  AppDelegate.m
-//  draw
+//  画板
 //
-//  Created by 洪曦尘 on 16/4/8.
-//  Copyright © 2016年 洪曦尘. All rights reserved.
+//  Created by 洪曦尘 on 15/12/24.
+//  Copyright © 2015年 洪曦尘. All rights reserved.
 //
 
 #import "AppDelegate.h"

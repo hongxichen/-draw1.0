@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "ED5F94A81CB79A9D0090EACA"
-               BuildableName = "draw.app"
-               BlueprintName = "draw"
-               ReferencedContainer = "container:draw.xcodeproj">
+               BlueprintIdentifier = "F47C25A61C2B8A7900C730EE"
+               BuildableName = "&#x753b;&#x677f;.app"
+               BlueprintName = "&#x753b;&#x677f;"
+               ReferencedContainer = "container:&#x753b;&#x677f;.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,30 +32,30 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "ED5F94C11CB79A9D0090EACA"
-               BuildableName = "drawTests.xctest"
-               BlueprintName = "drawTests"
-               ReferencedContainer = "container:draw.xcodeproj">
+               BlueprintIdentifier = "F47C25BF1C2B8A7900C730EE"
+               BuildableName = "&#x753b;&#x677f;Tests.xctest"
+               BlueprintName = "&#x753b;&#x677f;Tests"
+               ReferencedContainer = "container:&#x753b;&#x677f;.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "ED5F94CC1CB79A9D0090EACA"
-               BuildableName = "drawUITests.xctest"
-               BlueprintName = "drawUITests"
-               ReferencedContainer = "container:draw.xcodeproj">
+               BlueprintIdentifier = "F47C25CA1C2B8A7900C730EE"
+               BuildableName = "&#x753b;&#x677f;UITests.xctest"
+               BlueprintName = "&#x753b;&#x677f;UITests"
+               ReferencedContainer = "container:&#x753b;&#x677f;.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "ED5F94A81CB79A9D0090EACA"
-            BuildableName = "draw.app"
-            BlueprintName = "draw"
-            ReferencedContainer = "container:draw.xcodeproj">
+            BlueprintIdentifier = "F47C25A61C2B8A7900C730EE"
+            BuildableName = "&#x753b;&#x677f;.app"
+            BlueprintName = "&#x753b;&#x677f;"
+            ReferencedContainer = "container:&#x753b;&#x677f;.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -75,13 +75,18 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "ED5F94A81CB79A9D0090EACA"
-            BuildableName = "draw.app"
-            BlueprintName = "draw"
-            ReferencedContainer = "container:draw.xcodeproj">
+            BlueprintIdentifier = "F47C25A61C2B8A7900C730EE"
+            BuildableName = "&#x753b;&#x677f;.app"
+            BlueprintName = "&#x753b;&#x677f;"
+            ReferencedContainer = "container:&#x753b;&#x677f;.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
+         <AdditionalOption
+            key = "NSZombieEnabled"
+            value = "YES"
+            isEnabled = "YES">
+         </AdditionalOption>
       </AdditionalOptions>
    </LaunchAction>
    <ProfileAction
@@ -94,10 +99,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "ED5F94A81CB79A9D0090EACA"
-            BuildableName = "draw.app"
-            BlueprintName = "draw"
-            ReferencedContainer = "container:draw.xcodeproj">
+            BlueprintIdentifier = "F47C25A61C2B8A7900C730EE"
+            BuildableName = "&#x753b;&#x677f;.app"
+            BlueprintName = "&#x753b;&#x677f;"
+            ReferencedContainer = "container:&#x753b;&#x677f;.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

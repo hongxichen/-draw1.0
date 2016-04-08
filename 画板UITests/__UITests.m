@@ -1,18 +1,18 @@
 //
-//  drawUITests.m
-//  drawUITests
+//  __UITests.m
+//  画板UITests
 //
-//  Created by 洪曦尘 on 16/4/8.
-//  Copyright © 2016年 洪曦尘. All rights reserved.
+//  Created by 洪曦尘 on 15/12/24.
+//  Copyright © 2015年 洪曦尘. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
 
-@interface drawUITests : XCTestCase
+@interface __UITests : XCTestCase
 
 @end
 
-@implementation drawUITests
+@implementation __UITests
 
 - (void)setUp {
     [super setUp];
